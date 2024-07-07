@@ -17,7 +17,7 @@ const Index = () => {
         <h1 className="text-5xl font-bold mb-4">CryptoSaaS</h1>
         <p className="text-xl mb-8">Revolutionize Your Crypto Trading Experience</p>
         <Button size="lg" className="bg-blue-600 hover:bg-blue-700">Get Started</Button>
-        <img src="/placeholder.svg" alt="Crypto illustration" className="mx-auto mt-12 w-full max-w-2xl h-64 object-cover" />
+        <img src="/images/crypto-illustration.jpg" alt="Crypto illustration" className="mx-auto mt-12 w-full max-w-2xl h-64 object-cover rounded-lg shadow-lg" />
       </section>
 
       {/* Features Section */}
@@ -112,7 +112,7 @@ const Index = () => {
 
       {/* Footer */}
       <footer className="py-8 bg-gray-800 text-center">
-        <img src="/placeholder.svg" alt="CryptoSaaS Logo" className="w-32 mx-auto mb-4" />
+        <img src="/images/cryptosaas-logo.png" alt="CryptoSaaS Logo" className="w-32 mx-auto mb-4" />
         <div className="flex justify-center gap-4 mb-4">
           <a href="#" className="text-blue-400 hover:text-blue-300">Privacy Policy</a>
           <a href="#" className="text-blue-400 hover:text-blue-300">Terms of Service</a>
